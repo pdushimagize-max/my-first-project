@@ -1,10 +1,3 @@
-"""
-HOSPITAL MANAGEMENT SYSTEM
-Projet pédagogique en Python.
-
-Les données sont conservées en mémoire pendant l'exécution seulement.
-Utiliser exclusivement des données fictives pour les tests.
-"""
 
 from datetime import datetime
 
